@@ -1,4 +1,6 @@
-# Introduction to HTML : Profile Page
+Assignment for sprint `Introduction to HTML` of Full Stack Developer program.
+
+# Introduction to HTML : [Profile Page](https://prpande.github.io/introToHtml/)
 
 ## Context
 
